@@ -11,7 +11,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 ||
 |-|
 LEGO® City Undercover
-LEGO® Star Wars™: The Skywalker Saga
+LEGO® Star Wars™: The Skywalker Saga (Dont't work!)
 
 Only official Steam versions work.
 
