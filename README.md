@@ -5,13 +5,15 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 ### Setup
 1) Install python and run: ```pip install psutil pymem keyboard```
 2) Launch your Lego game, and enable the "windowed mode" option.
-3) Run the script: ```py let.py```
+3) In your Lego game, go to a place where you can move your character (basically don't stay on the main menu).
+4) Run the script: ```py let.py```
+<details> <summary>If "windowed mode" option doesn't exist</summary> On Steam, add the launch option "-windowed". </details>
 
 ### Supported Games
 ||
 |-|
+LEGO® Batman™: The Videogame
 LEGO® City Undercover
-LEGO® Star Wars™: The Skywalker Saga (Dont't work!)
 
 Only official Steam versions work.
 
