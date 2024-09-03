@@ -66,7 +66,8 @@ def set_game():
 
     games = {
         "LEGOBatman.exe": (0x006B264C, 0x5C),
-        "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90)
+        "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90),
+        "LEGO DC Super-villains_DX11.exe": (0x02D9F4B0, 0x90)
     }
 
     for proc in psutil.process_iter(["name"]):
