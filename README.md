@@ -14,6 +14,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 |-|
 LEGO® Batman™: The Videogame
 LEGO® City Undercover
+LEGO® DC Super-Villains
 
 Only official Steam versions work.
 
