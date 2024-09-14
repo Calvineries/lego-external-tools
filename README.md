@@ -13,6 +13,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 ||
 |-|
 LEGO® Batman™: The Videogame
+LEGO® Marvel™ Super Heroes
 LEGO® City Undercover
 LEGO® DC Super-Villains
 
