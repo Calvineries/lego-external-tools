@@ -4,10 +4,19 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 
 ### Setup
 1) Install python and run: ```pip install psutil pymem keyboard```
-2) Launch your Lego game, and enable the "windowed mode" option.
+2) Launch your Lego game, and make sure the game is not in fullscreen mode.
 3) In your Lego game, go to a place where you can move your character (basically don't stay on the main menu).
 4) Run the script: ```py let.py```
-<details> <summary>If "windowed mode" option doesn't exist</summary> On Steam, add the launch option "-windowed". </details>
+<details>
+  <summary>How to launch my game in windowed mode?</summary>
+  <h2>LEGO® Batman™: The Videogame</h2> On Steam, add the launch option "-windowed".<br>
+  <h2>LEGO® City Undercover & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
+  <h2>LEGO® Marvel™ Super Heroes</h2> The only way is to use third party software.<br>
+  1) Download and launch <a href="https://sourceforge.net/projects/dxwnd/">DXWnd</a><br>
+  2) Press "Edit", then "Add" and select the path of the .exe of the game.<br>
+  3) Configure the game in DXWnd so that the game displays at the correct size.<br>
+  4) Launch the game.
+</details>
 
 ### Supported Games
 ||
