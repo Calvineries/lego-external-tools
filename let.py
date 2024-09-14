@@ -19,7 +19,7 @@ def create_overlay():
 
     l_key = Label(root, text="Press RSHIFT to open GUI", fg="white", bg="black", font=("Arial", 8))
     l_key.place(x=0, y=150)
-    l_ver = Label(root, text="1.0.1", fg="white", bg="black", font=("Arial", 7))
+    l_ver = Label(root, text="1.0.2", fg="white", bg="black", font=("Arial", 7))
     l_ver.place(x=0, y=175)
 
     def update_labels():
@@ -66,6 +66,7 @@ def set_game():
 
     games = {
         "LEGOBatman.exe": (0x006B264C, 0x5C),
+        "LEGOMARVEL.exe": (0x015B0884, 0x70),
         "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90),
         "LEGO DC Super-villains_DX11.exe": (0x02D9F4B0, 0x90)
     }
