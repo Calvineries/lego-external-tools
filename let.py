@@ -66,6 +66,7 @@ def set_game():
 
     games = {
         "LEGOBatman.exe": (0x006B264C, 0x5C),
+        "LEGOBatman2.exe": (0x00F9A550, 0x70),
         "LEGOMARVEL.exe": (0x015B0884, 0x70),
         "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90),
         "LEGO The Incredibles_DX11.exe": (0x02752DC0, 0x90),
