@@ -11,7 +11,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
   <summary>How to launch my game in windowed mode?</summary>
   <h2>LEGO® Batman™: The Videogame</h2> On Steam, add the launch option "-windowed".<br>
   <h2>LEGO® City Undercover & LEGO® The Incredibles & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
-  <h2>LEGO® Marvel™ Super Heroes</h2> The only way is to use third party software.<br>
+  <h2>LEGO® Batman™ 2: DC Super Heroes & LEGO® Marvel™ Super Heroes</h2> The only way is to use third party software.<br>
   1) Download and launch <a href="https://sourceforge.net/projects/dxwnd/">DXWnd</a><br>
   2) Press "Edit", then "Add" and select the path of the .exe of the game.<br>
   3) Configure the game in DXWnd so that the game displays at the correct size.<br>
@@ -22,6 +22,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 ||
 |-|
 LEGO® Batman™: The Videogame
+LEGO® Batman™ 2: DC Super Heroes
 LEGO® Marvel™ Super Heroes
 LEGO® City Undercover
 LEGO® The Incredibles
