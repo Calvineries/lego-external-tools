@@ -9,8 +9,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 4) Run the script: ```py let.py```
 <details>
   <summary>How to launch my game in windowed mode?</summary>
-  <h2>LEGO® Batman™: The Videogame</h2> On Steam, add the launch option "-windowed".<br>
-  <h2>LEGO® City Undercover & LEGO® The Incredibles & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
+  <h2>LEGO® City Undercover & LEGO® STAR WARS™: The Force Awakens & LEGO® The Incredibles & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
   <h2>LEGO® Batman™ 2: DC Super Heroes & LEGO® The Lord of the Rings™ & LEGO® Marvel™ Super Heroes</h2> The only way is to use third party software.<br>
   1) Download and launch <a href="https://sourceforge.net/projects/dxwnd/">DXWnd</a><br>
   2) Press "Edit", then "Add" and select the path of the .exe of the game.<br>
@@ -25,6 +24,7 @@ LEGO® Batman™ 2: DC Super Heroes
 LEGO® The Lord of the Rings™
 LEGO® Marvel™ Super Heroes
 LEGO® City Undercover
+LEGO® STAR WARS™: The Force Awakens
 LEGO® The Incredibles
 LEGO® DC Super-Villains
 
