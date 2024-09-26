@@ -10,7 +10,7 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 <details>
   <summary>How to launch my game in windowed mode?</summary>
   <h2>LEGO® City Undercover & LEGO® STAR WARS™: The Force Awakens & LEGO® The Incredibles & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
-  <h2>LEGO® Batman™ 2: DC Super Heroes & LEGO® The Lord of the Rings™ & LEGO® Marvel™ Super Heroes</h2> The only way is to use third party software.<br>
+  <h2>LEGO® Batman™ 2: DC Super Heroes & LEGO® The Lord of the Rings™ & LEGO® Marvel™ Super Heroes & The LEGO® Movie - Videogame</h2> The only way is to use third party software.<br>
   1) Download and launch <a href="https://sourceforge.net/projects/dxwnd/">DXWnd</a><br>
   2) Press "Edit", then "Add" and select the path of the .exe of the game.<br>
   3) Configure the game in DXWnd so that the game displays at the correct size.<br>
@@ -22,8 +22,9 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 |-|
 LEGO® Batman™ 2: DC Super Heroes
 LEGO® The Lord of the Rings™
-LEGO® Marvel™ Super Heroes
 LEGO® City Undercover
+LEGO® Marvel™ Super Heroes
+The LEGO® Movie - Videogame
 LEGO® STAR WARS™: The Force Awakens
 LEGO® The Incredibles
 LEGO® DC Super-Villains
