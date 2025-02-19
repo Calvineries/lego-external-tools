@@ -26,6 +26,7 @@ LEGO® City Undercover
 LEGO® Marvel™ Super Heroes
 The LEGO® Movie - Videogame
 LEGO® STAR WARS™: The Force Awakens
+The LEGO® NINJAGO® Movie Video Game
 LEGO® The Incredibles
 LEGO® DC Super-Villains
 
