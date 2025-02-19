@@ -71,7 +71,8 @@ def set_game():
         "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90),
         "LEGOMARVEL.exe": (0x015B0884, 0x70),
         "legoemmet.exe": (0x016DAC00, 0x70),
-        "LEGOSWTFA_DX11.EXE": (0x027AB148, 0x90),
+        "LEGOSWTFA_DX11.exe": (0x027AB148, 0x90),
+        "LEGONINJAGO_DX11.exe": (0x024AA8F8, 0x90),
         "LEGO The Incredibles_DX11.exe": (0x02752DC0, 0x90),
         "LEGO DC Super-villains_DX11.exe": (0x02D9F4B0, 0x90)
     }
