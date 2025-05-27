@@ -1,12 +1,13 @@
 ## LET: Lego-External-Tools
 Display and change your location with an external overlay for multiple Lego games.  
-Video demonstration: https://youtu.be/WJvRg-DrFjM
+Now with a studs/money editor.
+Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM
 
 ### Setup
-1) Install python and run: ```pip install psutil pymem keyboard```
+1) Install python and run: ```pip install dearpygui pywin32```
 2) Launch your Lego game, and make sure the game is not in fullscreen mode.
 3) In your Lego game, go to a place where you can move your character (basically don't stay on the main menu).
-4) Run the script: ```py let.py```
+4) Run the script: ```py app.py```
 <details>
   <summary>How to launch my game in windowed mode?</summary>
   <h2>LEGO® City Undercover & LEGO® STAR WARS™: The Force Awakens & LEGO® The Incredibles & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
@@ -18,22 +19,23 @@ Video demonstration: https://youtu.be/WJvRg-DrFjM
 </details>
 
 ### Supported Games
-||
-|-|
-LEGO® Batman™ 2: DC Super Heroes
-LEGO® The Lord of the Rings™
-LEGO® City Undercover
-LEGO® Marvel™ Super Heroes
-The LEGO® Movie - Videogame
-LEGO® STAR WARS™: The Force Awakens
-The LEGO® NINJAGO® Movie Video Game
-LEGO® The Incredibles
-LEGO® DC Super-Villains
+|Game|Teleportation|Money editor
+|-|-|-|
+LEGO® Batman™: The Videogame|✅|✅
+LEGO® Star Wars™ III - The Clone Wars|✅|-
+LEGO® Batman™ 2: DC Super Heroes|✅|-
+LEGO® The Lord of the Rings™|✅|-
+LEGO® City Undercover|✅|✅
+LEGO® Marvel™ Super Heroes|✅|-
+The LEGO® Movie - Videogame|✅|-
+LEGO® STAR WARS™: The Force Awakens|✅|-
+The LEGO® NINJAGO® Movie Video Game|✅|-
+LEGO® The Incredibles|✅|-
+LEGO® DC Super-Villains|✅|-
 
 Only official Steam versions work.
 
 ### Planned changes
-- Add a money editor
 - Support more games
 - Make it easier to access the window
 - Support multiple characters
