@@ -1,7 +1,7 @@
 ## LET: Lego-External-Tools
 Display and change your location with an external overlay for multiple Lego games.  
-Now with a studs/money editor.
-Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM
+Now with a studs/money editor.  
+Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM  
 
 ### Setup
 1) Install python and run: ```pip install dearpygui pywin32```
