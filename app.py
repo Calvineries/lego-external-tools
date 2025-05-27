@@ -18,6 +18,7 @@ class Colors:
 
 def detect_current_game():
     games = {
+        "LEGOStarWarsSaga.exe": (0x0053B350, 0x60, 0x000C26B4),
         "LEGOBatman.exe": (0x006B264C, 0x5C, 0x006AF8B0), 
         "LEGOCloneWars.exe": (0x00BBEA18, 0x74, 0x0), 
         "LEGOBatman2.exe": (0x00F9A550, 0x70, 0x0),
