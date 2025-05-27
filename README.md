@@ -22,6 +22,7 @@ Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM
 ### Supported Games
 |Game|Teleportation|Money editor
 |-|-|-|
+LEGO® Star Wars™ - The Complete Saga|✅|✅
 LEGO® Batman™: The Videogame|✅|✅
 LEGO® Star Wars™ III - The Clone Wars|✅|-
 LEGO® Batman™ 2: DC Super Heroes|✅|-
