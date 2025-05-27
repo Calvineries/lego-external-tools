@@ -5,9 +5,10 @@ Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM
 
 ### Setup
 1) Install python and run: ```pip install dearpygui pywin32```
-2) Launch your Lego game, and make sure the game is not in fullscreen mode.
-3) In your Lego game, go to a place where you can move your character (basically don't stay on the main menu).
-4) Run the script: ```py app.py```
+2) Install PyMeow module: https://github.com/qb-0/pyMeow
+3) Launch your Lego game, and make sure the game is not in fullscreen mode.
+4) In your Lego game, go to a place where you can move your character (basically don't stay on the main menu).
+5) Run the script: ```py app.py```
 <details>
   <summary>How to launch my game in windowed mode?</summary>
   <h2>LEGO® City Undercover & LEGO® STAR WARS™: The Force Awakens & LEGO® The Incredibles & LEGO® DC Super-Villains</h2> In the game options, enable Windowed mode.<br>
