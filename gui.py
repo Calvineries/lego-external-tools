@@ -25,7 +25,7 @@ def setstuds():
 class GUI():
     def init_menu(self) -> None:
         dpg.create_context()
-        dpg.create_viewport(title="Nexus External ESP - V2", decorated=True, width=600, height=400)
+        dpg.create_viewport(title="Lego External Tools", decorated=True, width=600, height=400)
         with dpg.window(tag='w_main'):
             with dpg.tab_bar():
                 with dpg.tab(label='Teleport'):
@@ -45,7 +45,7 @@ class GUI():
 
                 with dpg.tab(label='About'):
                     dpg.add_text("[Lego External Tools]")
-                    dpg.add_text("Version: 2.0.0")
+                    dpg.add_text("Version: 2.0.1")
                     dpg.add_text("")
                     dpg.add_text("© Calvineries.")
                     dpg.add_text("")

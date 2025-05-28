@@ -18,9 +18,10 @@ class Colors:
 
 def detect_current_game():
     games = {
-        "LEGOStarWarsSaga.exe": (0x0053B350, 0x60, 0x000C26B4),
+        "LEGOStarWarsSaga.exe": (0x0053B350, 0x5C, 0x000C26B4),
+        "LEGOIndy.exe": (0x006ADEE4, 0x5C, 0x000EE750),
         "LEGOBatman.exe": (0x006B264C, 0x5C, 0x006AF8B0), 
-        "LEGOCloneWars.exe": (0x00BBEA18, 0x74, 0x0), 
+        "LEGOCloneWars.exe": (0x00BBEA18, 0x70, 0x00BB4CB8), 
         "LEGOBatman2.exe": (0x00F9A550, 0x70, 0x0),
         "LEGOlotr.exe": (0x011BD93C, 0x70, 0x0),
         "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90, 0x01C7E640),
@@ -48,16 +49,24 @@ def get_studs():
     if current_game:
         if current_game[3]:
             memory = pm.open_process(current_game[0])
-            baseDll = pm.get_module(memory, current_game[0])    
-            base = pm.r_int64(memory, baseDll["base"] + current_game[3])
-            return pm.r_uint64(memory, base)
+            baseDll = pm.get_module(memory, current_game[0])
+            try:
+                base = pm.r_int(memory, baseDll["base"] + current_game[3])
+                return pm.r_uint(memory, base)
+            except:
+                base = pm.r_int64(memory, baseDll["base"] + current_game[3])
+                return pm.r_uint64(memory, base)
 
 def set_studs(amount):
     current_game = detect_current_game()
     memory = pm.open_process(current_game[0])
-    baseDll = pm.get_module(memory, current_game[0])    
-    base = pm.r_int64(memory, baseDll["base"] + current_game[3])
-    pm.w_int64(memory, base, amount)
+    baseDll = pm.get_module(memory, current_game[0])
+    try:
+        base = pm.r_int(memory, baseDll["base"] + current_game[3])
+        pm.w_uint(memory, base, amount)
+    except:
+        base = pm.r_int64(memory, baseDll["base"] + current_game[3])
+        pm.w_uint64(memory, base, amount)
 
 def teleport(x, y, z):
     current_game = detect_current_game()
