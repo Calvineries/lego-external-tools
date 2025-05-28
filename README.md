@@ -23,8 +23,9 @@ Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM
 |Game|Teleportation|Money editor
 |-|-|-|
 LEGO® Star Wars™ - The Complete Saga|✅|✅
+LEGO® Indiana Jones™: The Original Adventures|✅|✅
 LEGO® Batman™: The Videogame|✅|✅
-LEGO® Star Wars™ III - The Clone Wars|✅|-
+LEGO® Star Wars™ III - The Clone Wars|✅|✅
 LEGO® Batman™ 2: DC Super Heroes|✅|-
 LEGO® The Lord of the Rings™|✅|-
 LEGO® City Undercover|✅|✅
