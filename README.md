@@ -21,6 +21,7 @@ LEGO® Star Wars™ - The Complete Saga|✅|✅
 LEGO® Indiana Jones™: The Original Adventures|✅|✅
 LEGO® Batman™: The Videogame|✅|✅
 LEGO® Star Wars™ III - The Clone Wars|✅|✅
+LEGO® Pirates of the Caribbean: The Video Game|✅|✅
 LEGO® Batman™ 2: DC Super Heroes|✅|-
 LEGO® The Lord of the Rings™|✅|-
 LEGO® City Undercover|✅|✅
