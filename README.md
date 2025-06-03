@@ -10,7 +10,7 @@ Video demonstration (very old version): https://youtu.be/WJvRg-DrFjM
 4) In your Lego game, go to a place where you can move your character (basically don't stay on the main menu).
 5) Run the script: ```py app.py```
 <details>
-  <summary>How to launch my game in windowed fullcreen if the game has not a windowed option?</summary>
+  <summary>How to launch my game in windowed fullscreen if the game has not a windowed option?</summary>
   The only way is to use third party software. Like <a href="https://www.special-k.info/">Special K</a> or <a href="https://sourceforge.net/projects/dxwnd/">DXWnd</a>.<br>
 </details>
 
