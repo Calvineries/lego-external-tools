@@ -18,7 +18,7 @@ def detect_current_game():
         "LEGOBatman.exe": (0x006B264C, 0x5C, 0x006AF8B0), 
         "LEGOCloneWars.exe": (0x00BBEA18, 0x70, 0x00BB4CB8),
         "LEGOPirates.exe": (0x00B7F4F8, 0x70, 0x00B77680),
-        "LEGOBatman2.exe": (0x00F9A550, 0x70, 0x0),
+        "LEGOBatman2.exe": (0x00F9A550, 0x70, 0x00F995DC),
         "LEGOlotr.exe": (0x011BD93C, 0x70, 0x0),
         "LEGOLCUR_DX11.exe": (0x01C77C78, 0x90, 0x01C7E640),
         "LEGOMARVEL.exe": (0x015B0884, 0x70, 0x0),
