@@ -15,7 +15,7 @@ def detect_current_game():
     games = {
         "LEGOStarWarsSaga.exe": (0x0053B350, 0x5C, 0x000C26B4),
         "LEGOIndy.exe": (0x006ADEE4, 0x5C, 0x000EE750),
-        "LEGOBatman.exe": (0x006B264C, 0x5C, 0x006AF8B0), 
+        "LEGOBatman.exe": (0x006B364C, 0x5C, 0x006B08B0), 
         "LEGOCloneWars.exe": (0x00BBEA18, 0x70, 0x00BB4CB8),
         "LEGOPirates.exe": (0x00B7F4F8, 0x70, 0x00B77680),
         "LEGOBatman2.exe": (0x00F9A550, 0x70, 0x00F995DC),
@@ -112,3 +112,4 @@ def main():
 if __name__ == "__main__":
     gui = GUI()
     start()
+
